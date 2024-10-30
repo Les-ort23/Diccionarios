@@ -1,0 +1,7 @@
+C:\Users\dncac\source\repos\Diccionario_y_Cargador\Diccionario_y_Cargador\bin\Debug\Diccionario_y_Cargador.exe.config
+C:\Users\dncac\source\repos\Diccionario_y_Cargador\Diccionario_y_Cargador\bin\Debug\Diccionario_y_Cargador.exe
+C:\Users\dncac\source\repos\Diccionario_y_Cargador\Diccionario_y_Cargador\bin\Debug\Diccionario_y_Cargador.pdb
+C:\Users\dncac\source\repos\Diccionario_y_Cargador\Diccionario_y_Cargador\obj\Debug\Diccionario_y_Cargador.csproj.AssemblyReference.cache
+C:\Users\dncac\source\repos\Diccionario_y_Cargador\Diccionario_y_Cargador\obj\Debug\Diccionario_y_Cargador.csproj.CoreCompileInputs.cache
+C:\Users\dncac\source\repos\Diccionario_y_Cargador\Diccionario_y_Cargador\obj\Debug\Diccionario_y_Cargador.exe
+C:\Users\dncac\source\repos\Diccionario_y_Cargador\Diccionario_y_Cargador\obj\Debug\Diccionario_y_Cargador.pdb
